@@ -1,0 +1,11 @@
+Borehole, fixed, https://www.data.boem.gov/Well/Files/5010.zip
+APIChanges, fixed,  https://www.data.boem.gov/Well/Files/apichgfixed.zip
+APIChanges, delimit,  https://www.data.boem.gov/Well/Files/apichgdelimit.zip
+SurveyPoints, fixed, https://www.data.boem.gov/Well/Files/dsptsfixed.zip
+SurveyPoints, delimit, https://www.data.boem.gov/Well/Files/dsptsdelimit.zip
+SurveyAzimuth, fixed, https://www.data.boem.gov/Well/Files/directfixed.zip
+SurveyAzimuth, delimit, https://www.data.boem.gov/Well/Files/directdelimit.zip
+SurveyAPIList, fixed, https://www.data.boem.gov/Well/Files/dspapifixed.zip
+SurveyAPIList, delimit, https://www.data.boem.gov/Well/Files/dspapidelimit.zip
+VelocitySurveys, fixed, https://www.data.boem.gov/Well/Files/velocfixed.zip
+VelocitySurveys, delimit, https://www.data.boem.gov/Well/Files/velocdelimit.zip
